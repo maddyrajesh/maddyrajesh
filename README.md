@@ -19,30 +19,41 @@
 </div>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/maddyrajesh)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/maddyrajesh)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/maddyrajesh)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/maddyrajesh)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/maddyrajesh)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/maddyrajesh)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/maddyrajesh)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.oracle.com/java/)
+[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
+[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://dart.dev/)
+[![MATLAB](https://img.shields.io/badge/matlab-black?style=for-the-badge&logo=matlab)](https://www.mathworks.com/products/matlab.html)
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://golang.org/)
+[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 
-### ML/DL
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/maddyrajesh)
-[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/maddyrajesh)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib)](https://github.com/maddyrajesh)
+### Libraries & Frameworks
+[![React.js](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://expressjs.com/)
+[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://palletsprojects.com/p/flask/)
+[![scikit-learn](https://img.shields.io/badge/scikit_learn-black?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)
+[![Keras](https://img.shields.io/badge/keras-black?style=for-the-badge&logo=keras)](https://keras.io/)
+[![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://numpy.org/)
+[![pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://pytorch.org/)
 
-### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/maddyrajesh)
-[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/maddyrajesh)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/maddyrajesh)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/maddyrajesh)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/maddyrajesh)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/maddyrajesh)
+### Development Tools
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://www.linux.org/)
+[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
+[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
 
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/maddyrajesh)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/maddyrajesh)
 
 <details>
 <p align="center">
