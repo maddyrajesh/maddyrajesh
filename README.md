@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Madhav Rajesh, a seasoned full stack developer specializing in building dynamic, scalable applications using React.js and a wide array of modern technologies. With extensive experience in deep learning, automation, and programming languages such as Ruby, C++, and C, I bring a comprehensive approach to solving complex technical challenges.
+        I'm Madhav Rajesh, a seasoned full stack developer specializing in building dynamic, scalable applications using React.js and a wide array of modern technologies. With extensive experience in deep learning, automation, and programming languages such as Javascript, Ruby, C++, and C, I bring a comprehensive approach to solving complex technical challenges.
     </i><br>
     <h2 align="center">Request a Service</h2>
     <p align="center">From crafting intuitive front-end experiences with React.js to architecting robust back-end systems, I deliver full stack solutions tailored to your needs. Feel free to send me an <a href="mailto:madhavrajesh.cs@gmail.com">E-Mail</a> to discuss how I can contribute to your project.</p><br />
