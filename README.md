@@ -3,10 +3,10 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Madhav Rajesh, an enthusiast in Computer Science currently diving deep into DL, Automation, and various programming languages including Ruby, C++, and C. I'm currently pursuing my Master's in Computer Science at Arizona State University, with a keen interest in exploring innovative projects that push the boundaries of technology.
+        I'm Madhav Rajesh, a seasoned full stack developer specializing in building dynamic, scalable applications using React.js and a wide array of modern technologies. With extensive experience in deep learning, automation, and programming languages such as Ruby, C++, and C, I bring a comprehensive approach to solving complex technical challenges.
     </i><br>
     <h2 align="center">Request a Service</h2>
-    <p align="center">Whether it's building solutions for the web or optimizing applications for your local machine, I'm here to help. Feel free to send me an <a href="mailto:madhavrajesh.cs@gmail.com">E-Mail</a> to discuss how I can contribute to your project.</p><br />
+    <p align="center">From crafting intuitive front-end experiences with React.js to architecting robust back-end systems, I deliver full stack solutions tailored to your needs. Feel free to send me an <a href="mailto:madhavrajesh.cs@gmail.com">E-Mail</a> to discuss how I can contribute to your project.</p><br />
 </p>
 
 <div align="center">
